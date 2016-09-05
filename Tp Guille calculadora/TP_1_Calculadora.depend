@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1473003887 source:c:\users\guille\desktop\tp guille calculadora\funciones.c
+	<stdio.h>
+
+1473004500 source:c:\users\guille\desktop\tp guille calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473040379 c:\users\guille\desktop\tp guille calculadora\funciones.h
+
