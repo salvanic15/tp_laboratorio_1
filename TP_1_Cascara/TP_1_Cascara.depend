@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1472915496 source:e:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\funciones.c
+	<stdio.h>
+	<ctype.h>
+
+1472914038 source:e:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1472648356 e:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\funciones.h
+
+1473467596 source:d:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\funciones.c
+	<stdio.h>
+	<ctype.h>
+
+1473471002 source:d:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1473465482 d:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\funciones.h
+
+1472649488 source:f:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\funciones.c
+	<stdio.h>
+
+1472652760 source:f:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472648356 f:\1º cuatrimestre\desarrollo de tp\tp_1_cascara\funciones.h
+
